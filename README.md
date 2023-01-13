@@ -2,4 +2,6 @@
 
 ### 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hi9900&show_icons=true&theme=radical)
+
+
+[!['s GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hi9900)](https://github.com/anuraghazra/github-readme-stats)
