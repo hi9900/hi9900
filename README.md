@@ -2,9 +2,12 @@
 
 <center> Hi, hi  </center>
 
+<!--
+
 ---
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lotus0028)](https://solved.ac/lotus0028)
 
 ![Github Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hi9900&show_icons=true&theme=transparent&hide_border=true&custom_title=MY%20STATS)
+ -->
