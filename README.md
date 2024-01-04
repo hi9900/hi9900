@@ -12,3 +12,6 @@
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lotus0028)](https://solved.ac/lotus0028)
+<!-- [![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=imhihi)](https://solved.ac/imhihi)
+-->
